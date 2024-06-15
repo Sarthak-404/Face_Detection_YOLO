@@ -1,0 +1,4 @@
+cvzone
+cv2
+ultralytics
+yolov8n-face.pt
